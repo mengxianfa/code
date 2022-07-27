@@ -1,7 +1,6 @@
 import random
 
 
-
 # 线性查找,返回所有v  的下标的列表
 def linear_search(li,v):
     tmp_li = []
